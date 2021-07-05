@@ -1,2 +1,3 @@
 # Minesweeper
-minesweeper game build by using javascript .
+
+A simple minesweeper game build by using javascript .
